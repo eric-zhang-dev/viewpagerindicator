@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mockable-android-16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/build/intermediates/mockable-android-16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

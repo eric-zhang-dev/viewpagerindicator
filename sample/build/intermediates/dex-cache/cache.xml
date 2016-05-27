@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zhangyue\Desktop\sample\sample\build\intermediates\exploded-aar\sample\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99db110ae4fe7b9f736f710bd3470320078b19f1">
+        <dex dex="C:\Users\zhangyue\Desktop\sample\sample\build\intermediates\pre-dexed\debug\classes-851905beb5c87bccb47e1f11d27b4f686b0e5e9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangyue\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\zhangyue\Desktop\sample\sample\build\intermediates\pre-dexed\debug\support-v4-18.0.0-cc09a119903b2d60f74147e96f63541acf909ed0.jar" />
+    </item>
+
+</items>
